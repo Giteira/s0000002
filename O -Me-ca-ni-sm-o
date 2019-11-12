@@ -1,0 +1,51 @@
+
+#EXTM3U size=“Medium”” 
+################## O Mecanismo ########################
+
+#EXTINF:0 tvg-logo="https://cometa.top/player3/imgs-videos/RCServer03/imgs-videos/O%20Mecanismo1.jpg" group-title="O Mecanismo", "01x01 - Lava Jato"
+http://cdnfe2.azureedge.net/RCServer13/ondemand/OMCNSMT01EP01.mp4
+
+#EXTINF:0 tvg-logo="https://cometa.top/player3/imgs-videos/RCServer03/imgs-videos/O%20Mecanismo1.jpg" group-title="O Mecanismo", "01x02 - Halawi"
+http://cdnfe2.azureedge.net/RCServer13/ondemand/OMCNSMT01EP02.mp4
+
+#EXTINF:0 tvg-logo="https://cometa.top/player3/imgs-videos/RCServer03/imgs-videos/O%20Mecanismo1.jpg" group-title="O Mecanismo", "01x03 - Ventos Frios Vindos do Sul"
+http://cdnfe2.azureedge.net/RCServer13/ondemand/OMCNSMT01EP03.mp4
+
+#EXTINF:0 tvg-logo="https://cometa.top/player3/imgs-videos/RCServer03/imgs-videos/O%20Mecanismo1.jpg" group-title="O Mecanismo", "01x04 - Fundo Falso"
+http://cdnfe2.azureedge.net/RCServer13/ondemand/OMCNSMT01EP04.mp4
+
+#EXTINF:0 tvg-logo="https://cometa.top/player3/imgs-videos/RCServer03/imgs-videos/O%20Mecanismo1.jpg" group-title="O Mecanismo", "01x05 - Olhos Vermelhos"
+http://cdnfe2.azureedge.net/RCServer13/ondemand/OMCNSMT01EP05.mp4
+
+#EXTINF:0 tvg-logo="https://cometa.top/player3/imgs-videos/RCServer03/imgs-videos/O%20Mecanismo1.jpg" group-title="O Mecanismo", "01x06 - Eles Sabiam de Tudo"
+http://cdnfe2.azureedge.net/RCServer13/ondemand/OMCNSMT01EP06.mp4
+
+#EXTINF:0 tvg-logo="https://cometa.top/player3/imgs-videos/RCServer03/imgs-videos/O%20Mecanismo1.jpg" group-title="O Mecanismo", "01x07 - O Último Respiro"
+http://cdnfe2.azureedge.net/RCServer13/ondemand/OMCNSMT01EP07.mp4
+
+#EXTINF:0 tvg-logo="https://cometa.top/player3/imgs-videos/RCServer03/imgs-videos/O%20Mecanismo1.jpg" group-title="O Mecanismo", "01x08 - Juízo Final"
+http://cdnfe2.azureedge.net/RCServer13/ondemand/OMCNSMT01EP08.mp4
+
+#EXTINF:0 tvg-logo="https://cometa.top/player3/imgs-videos/Series/O%20Mecanismo%202.jpg" group-title="O Mecanismo", "02x01 - De Onde Vem a Lama?"
+http://cdnfe2.azureedge.net/RCServer06/ondemand/OMCNSMT02EP01.mp4
+
+#EXTINF:0 tvg-logo="https://cometa.top/player3/imgs-videos/Series/O%20Mecanismo%202.jpg" group-title="O Mecanismo", "02x02 - Del Este"
+http://cdnfe2.azureedge.net/RCServer06/ondemand/OMCNSMT02EP02.mp4
+
+#EXTINF:0 tvg-logo="https://cometa.top/player3/imgs-videos/Series/O%20Mecanismo%202.jpg" group-title="O Mecanismo", "02x03 - Adictos"
+http://cdnfe2.azureedge.net/RCServer06/ondemand/OMCNSMT02EP03.mp4
+
+#EXTINF:0 tvg-logo="https://cometa.top/player3/imgs-videos/Series/O%20Mecanismo%202.jpg" group-title="O Mecanismo", "02x04 - O Grande Ilusionista"
+http://cdnfe2.azureedge.net/RCServer06/ondemand/OMCNSMT02EP04.mp4
+
+#EXTINF:0 tvg-logo="https://cometa.top/player3/imgs-videos/Series/O%20Mecanismo%202.jpg" group-title="O Mecanismo", "02x05 - Ponte da Amizade"
+http://cdnfe2.azureedge.net/RCServer06/ondemand/OMCNSMT02EP05.mp4
+
+#EXTINF:0 tvg-logo="https://cometa.top/player3/imgs-videos/Series/O%20Mecanismo%202.jpg" group-title="O Mecanismo", "02x06 - Réquiem"
+http://cdnfe2.azureedge.net/RCServer06/ondemand/OMCNSMT02EP06.mp4
+
+#EXTINF:0 tvg-logo="https://cometa.top/player3/imgs-videos/Series/O%20Mecanismo%202.jpg" group-title="O Mecanismo", "02x07 - O Fim e os Meios"
+http://cdnfe2.azureedge.net/RCServer06/ondemand/OMCNSMT02EP07.mp4
+
+#EXTINF:0 tvg-logo="https://cometa.top/player3/imgs-videos/Series/O%20Mecanismo%202.jpg" group-title="O Mecanismo", "02x08 - Canastra Suja"
+http://cdnfe2.azureedge.net/RCServer06/ondemand/OMCNSMT02EP08.mp4
