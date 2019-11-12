@@ -1,0 +1,16 @@
+
+
+#EXTM3U size=“Medium”” 
+################## Crash e Bernstein ########################
+
+#EXTINF:0 tvg-logo="https://cometa.top/player3/imgs-videos/Series/Crash%20e%20Bernstein%201.jpg" group-title="Crash e Bernstein", "01x01 - Crashlândia"
+http://cdnfe3.azureedge.net/RCServer07/ondemand/CRSHEBNSTNT01EP01.mp4
+
+#EXTINF:0 tvg-logo="https://cometa.top/player3/imgs-videos/Series/Crash%20e%20Bernstein%201.jpg" group-title="Crash e Bernstein", "01x25 - Crash no Caminho"
+http://cdnfe3.azureedge.net/RCServer07/ondemand/CRSHEBNSTNT01EP25.mp4
+
+#EXTINF:0 tvg-logo="https://cometa.top/player3/imgs-videos/Series/Crash%20e%20Bernstein%202.jpg" group-title="Crash e Bernstein", "02x01 - A Plástica no Nariz"
+http://cdnfe3.azureedge.net/RCServer07/ondemand/CRSHEBNSTNT02EP01.mp4
+
+#EXTINF:0 tvg-logo="https://cometa.top/player3/imgs-videos/Series/Crash%20e%20Bernstein%202.jpg" group-title="Crash e Bernstein", "*02x13 - Cabeças Duplas*"
+----------
