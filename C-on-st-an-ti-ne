@@ -1,0 +1,43 @@
+
+
+#EXTM3U size=“Medium”” 
+################## Constantine ########################
+
+#EXTINF:0 tvg-logo="https://cometa.top/player3/imgs-videos/RCServer08/imgs-videos/Constantine1.jpg" group-title="Constantine", "01x01 - Asilo Não Est"
+http://cdnfe3.azureedge.net/RCServer09/ondemand/CNSTNTT01EP01.mp4
+
+#EXTINF:0 tvg-logo="https://cometa.top/player3/imgs-videos/RCServer08/imgs-videos/Constantine1.jpg" group-title="Constantine", "01x02 - A Escuridão Abaixo"
+http://cdnfe3.azureedge.net/RCServer09/ondemand/CNSTNTT01EP02.mp4
+
+#EXTINF:0 tvg-logo="https://cometa.top/player3/imgs-videos/RCServer08/imgs-videos/Constantine1.jpg" group-title="Constantine", "01x03 - Vinil do Diabo"
+http://cdnfe3.azureedge.net/RCServer09/ondemand/CNSTNTT01EP03.mp4
+
+#EXTINF:0 tvg-logo="https://cometa.top/player3/imgs-videos/RCServer08/imgs-videos/Constantine1.jpg" group-title="Constantine", "01x04 - Uma Festa de Amigos"
+http://cdnfe3.azureedge.net/RCServer09/ondemand/CNSTNTT01EP04.mp4
+
+#EXTINF:0 tvg-logo="https://cometa.top/player3/imgs-videos/RCServer08/imgs-videos/Constantine1.jpg" group-title="Constantine", "01x05 - Dança Vudu"
+http://cdnfe3.azureedge.net/RCServer09/ondemand/CNSTNTT01EP05.mp4
+
+#EXTINF:0 tvg-logo="https://cometa.top/player3/imgs-videos/RCServer08/imgs-videos/Constantine1.jpg" group-title="Constantine", "01x06 - Raiva de Caliban"
+http://cdnfe3.azureedge.net/RCServer09/ondemand/CNSTNTT01EP06.mp4
+
+#EXTINF:0 tvg-logo="https://cometa.top/player3/imgs-videos/RCServer08/imgs-videos/Constantine1.jpg" group-title="Constantine", "01x07 - Bem-aventurados os Condenados"
+http://cdnfe3.azureedge.net/RCServer09/ondemand/CNSTNTT01EP07.mp4
+
+#EXTINF:0 tvg-logo="https://cometa.top/player3/imgs-videos/RCServer08/imgs-videos/Constantine1.jpg" group-title="Constantine", "01x08 - O Santo de Últimos Resorts (Parte 1)"
+http://cdnfe3.azureedge.net/RCServer09/ondemand/CNSTNTT01EP08.mp4
+
+#EXTINF:0 tvg-logo="https://cometa.top/player3/imgs-videos/RCServer08/imgs-videos/Constantine1.jpg" group-title="Constantine", "01x09 - O Santo de Últimos Resorts (Parte 2)"
+http://cdnfe3.azureedge.net/RCServer09/ondemand/CNSTNTT01EP09.mp4
+
+#EXTINF:0 tvg-logo="https://cometa.top/player3/imgs-videos/RCServer08/imgs-videos/Constantine1.jpg" group-title="Constantine", "01x10 - Compensação"
+http://cdnfe3.azureedge.net/RCServer09/ondemand/CNSTNTT01EP10.mp4
+
+#EXTINF:0 tvg-logo="https://cometa.top/player3/imgs-videos/RCServer08/imgs-videos/Constantine1.jpg" group-title="Constantine", "01x11 - Um Mundo Inteiro Lá Fora"
+http://cdnfe3.azureedge.net/RCServer09/ondemand/CNSTNTT01EP11.mp4
+
+#EXTINF:0 tvg-logo="https://cometa.top/player3/imgs-videos/RCServer08/imgs-videos/Constantine1.jpg" group-title="Constantine", "01x12 - Anjos e Ministros da Graça"
+http://cdnfe3.azureedge.net/RCServer09/ondemand/CNSTNTT01EP12.mp4
+
+#EXTINF:0 tvg-logo="https://cometa.top/player3/imgs-videos/RCServer08/imgs-videos/Constantine1.jpg" group-title="Constantine", "01x13 - Esperando o Homem"
+http://cdnfe3.azureedge.net/RCServer09/ondemand/CNSTNTT01EP13.mp4
