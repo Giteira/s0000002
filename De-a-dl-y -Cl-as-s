@@ -1,0 +1,33 @@
+
+#EXTM3U size=“Medium”” 
+################## Deadly Class ########################
+
+#EXTINF:0 tvg-logo="https://cometa.top/player3/imgs-videos/Series/Deadly%20Class%201.jpg" group-title="Deadly Class", "01x01 - A Juventude Reagan"
+http://cdnfe2.azureedge.net/RCServer03/ondemand/DEADYCLST01EP01.mp4
+
+#EXTINF:0 tvg-logo="https://cometa.top/player3/imgs-videos/Series/Deadly%20Class%201.jpg" group-title="Deadly Class", "01x02 - Barulho, Barulho, Barulho"
+http://cdnfe2.azureedge.net/RCServer03/ondemand/DEADYCLST01EP02.mp4
+
+#EXTINF:0 tvg-logo="https://cometa.top/player3/imgs-videos/Series/Deadly%20Class%201.jpg" group-title="Deadly Class", "01x03 - Covil de Cobras"
+http://cdnfe2.azureedge.net/RCServer03/ondemand/DEADYCLST01EP03.mp4
+
+#EXTINF:0 tvg-logo="https://cometa.top/player3/imgs-videos/Series/Deadly%20Class%201.jpg" group-title="Deadly Class", "01x04 - Turma do Espelho"
+http://cdnfe2.azureedge.net/RCServer03/ondemand/DEADYCLST01EP04.mp4
+
+#EXTINF:0 tvg-logo="https://cometa.top/player3/imgs-videos/Series/Deadly%20Class%201.jpg" group-title="Deadly Class", "01x05 - Saudade"
+http://cdnfe2.azureedge.net/RCServer03/ondemand/DEADYCLST01EP05.mp4
+
+#EXTINF:0 tvg-logo="https://cometa.top/player3/imgs-videos/Series/Deadly%20Class%201.jpg" group-title="Deadly Class", "01x06 - Estigmata"
+http://cdnfe2.azureedge.net/RCServer03/ondemand/DEADYCLST01EP06.mp4
+
+#EXTINF:0 tvg-logo="https://cometa.top/player3/imgs-videos/Series/Deadly%20Class%201.jpg" group-title="Deadly Class", "01x07 - Supere"
+http://cdnfe2.azureedge.net/RCServer03/ondemand/DEADYCLST01EP07.mp4
+
+#EXTINF:0 tvg-logo="https://cometa.top/player3/imgs-videos/Series/Deadly%20Class%201.jpg" group-title="Deadly Class", "01x08 - Reprimidos"
+http://cdnfe2.azureedge.net/RCServer03/ondemand/DEADYCLST01EP08.mp4
+
+#EXTINF:0 tvg-logo="https://cometa.top/player3/imgs-videos/Series/Deadly%20Class%201.jpg" group-title="Deadly Class", "01x09 - Os Jovens do Buraco Negro"
+http://cdnfe2.azureedge.net/RCServer03/ondemand/DEADYCLST01EP09.mp4
+
+#EXTINF:0 tvg-logo="https://cometa.top/player3/imgs-videos/Series/Deadly%20Class%201.jpg" group-title="Deadly Class", "01x10 - Um Mergulho na Califórnia"
+http://cdnfe2.azureedge.net/RCServer03/ondemand/DEADYCLST01EP10.mp4
