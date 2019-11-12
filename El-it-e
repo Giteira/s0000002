@@ -1,0 +1,53 @@
+
+
+#EXTM3U size=“Medium”” 
+################## Elite ########################
+
+#EXTINF:0 tvg-logo="https://cometa.top/player3/imgs-videos/Series/Elite%201.jpg" group-title="Elite", "01x01 - Bem-vindos"
+http://cdnfe3.azureedge.net/RCServer07/ondemand/ELTET01EP01.mp4
+
+#EXTINF:0 tvg-logo="https://cometa.top/player3/imgs-videos/Series/Elite%201.jpg" group-title="Elite", "01x02 - Desejo"
+http://cdnfe3.azureedge.net/RCServer07/ondemand/ELTET01EP02.mp4
+
+#EXTINF:0 tvg-logo="https://cometa.top/player3/imgs-videos/Series/Elite%201.jpg" group-title="Elite", "01x03 - Sábado À Noite"
+http://cdnfe3.azureedge.net/RCServer07/ondemand/ELTET01EP03.mp4
+
+#EXTINF:0 tvg-logo="https://cometa.top/player3/imgs-videos/Series/Elite%201.jpg" group-title="Elite", "01x04 - O Amor É Uma Droga"
+http://cdnfe3.azureedge.net/RCServer07/ondemand/ELTET01EP04.mp4
+
+#EXTINF:0 tvg-logo="https://cometa.top/player3/imgs-videos/Series/Elite%201.jpg" group-title="Elite", "01x05 - Todo Mundo Mente"
+http://cdnfe3.azureedge.net/RCServer07/ondemand/ELTET01EP05.mp4
+
+#EXTINF:0 tvg-logo="https://cometa.top/player3/imgs-videos/Series/Elite%201.jpg" group-title="Elite", "01x06 - Tudo Vai Ficar Bem"
+http://cdnfe3.azureedge.net/RCServer07/ondemand/ELTET01EP06.mp4
+
+#EXTINF:0 tvg-logo="https://cometa.top/player3/imgs-videos/Series/Elite%201.jpg" group-title="Elite", "01x07 - Tudo Explode"
+http://cdnfe3.azureedge.net/RCServer07/ondemand/ELTET01EP07.mp4
+
+#EXTINF:0 tvg-logo="https://cometa.top/player3/imgs-videos/Series/Elite%201.jpg" group-title="Elite", "01x08 - Arzila"
+http://cdnfe3.azureedge.net/RCServer07/ondemand/ELTET01EP08.mp4
+
+#EXTINF:0 tvg-logo="https://cometa.top/player3/imgs-videos/Series/Elite%202.jpg" group-title="Elite", "02x01 - 20 Horas Desaparecido"
+http://cdnfe2.azureedge.net/RCServer06/ondemand/ELTET02EP01.mp4
+
+#EXTINF:0 tvg-logo="https://cometa.top/player3/imgs-videos/Series/Elite%202.jpg" group-title="Elite", "02x02 - 34 Horas Desaparecido"
+http://cdnfe2.azureedge.net/RCServer06/ondemand/ELTET02EP02.mp4
+
+#EXTINF:0 tvg-logo="https://cometa.top/player3/imgs-videos/Series/Elite%202.jpg" group-title="Elite", "02x03 - 36 Horas Desaparecido"
+http://cdnfe2.azureedge.net/RCServer06/ondemand/ELTET02EP03.mp4
+
+#EXTINF:0 tvg-logo="https://cometa.top/player3/imgs-videos/Series/Elite%202.jpg" group-title="Elite", "02x04 - 59 Horas Desaparecido"
+http://cdnfe2.azureedge.net/RCServer06/ondemand/ELTET02EP04.mp4
+
+#EXTINF:0 tvg-logo="https://cometa.top/player3/imgs-videos/Series/Elite%202.jpg" group-title="Elite", "02x05 - 63 Horas Desaparecido"
+http://cdnfe2.azureedge.net/RCServer06/ondemand/ELTET02EP05.mp4
+
+#EXTINF:0 tvg-logo="https://cometa.top/player3/imgs-videos/Series/Elite%202.jpg" group-title="Elite", "02x06 - 66 Horas Desaparecido"
+http://cdnfe2.azureedge.net/RCServer06/ondemand/ELTET02EP06.mp4
+
+#EXTINF:0 tvg-logo="https://cometa.top/player3/imgs-videos/Series/Elite%202.jpg" group-title="Elite", "02x07 - 84 Horas Desaparecido"
+http://cdnfe2.azureedge.net/RCServer06/ondemand/ELTET02EP07.mp4
+
+#EXTINF:0 tvg-logo="https://cometa.top/player3/imgs-videos/Series/Elite%202.jpg" group-title="Elite", "02x08 - 0 Hora Desaparecido"
+http://cdnfe2.azureedge.net/RCServer06/ondemand/ELTET02EP08.mp4
+
