@@ -1,0 +1,81 @@
+
+#EXTM3U size=“Medium”” 
+################## O Justiceiro ########################
+
+#EXTINF:0 tvg-logo="https://cometa.top/player3/imgs-videos/RCServer03/imgs-videos/O%20Justiceiro1.jpg" group-title="O Justiceiro", "01x01 - Três da Madrugada"
+http://cdnfe2.azureedge.net/RCServer13/ondemand/OJSTCROT01EP01.mp4
+
+#EXTINF:0 tvg-logo="https://cometa.top/player3/imgs-videos/RCServer03/imgs-videos/O%20Justiceiro1.jpg" group-title="O Justiceiro", "01x02 - Dois Homens Mortos"
+http://cdnfe2.azureedge.net/RCServer13/ondemand/OJSTCROT01EP02.mp4
+
+#EXTINF:0 tvg-logo="https://cometa.top/player3/imgs-videos/RCServer03/imgs-videos/O%20Justiceiro1.jpg" group-title="O Justiceiro", "01x03 - Kandahar"
+http://cdnfe2.azureedge.net/RCServer13/ondemand/OJSTCROT01EP03.mp4
+
+#EXTINF:0 tvg-logo="https://cometa.top/player3/imgs-videos/RCServer03/imgs-videos/O%20Justiceiro1.jpg" group-title="O Justiceiro", "01x04 - Reabastecimento"
+http://cdnfe2.azureedge.net/RCServer13/ondemand/OJSTCROT01EP04.mp4
+
+#EXTINF:0 tvg-logo="https://cometa.top/player3/imgs-videos/RCServer03/imgs-videos/O%20Justiceiro1.jpg" group-title="O Justiceiro", "01x05 - Gunner"
+http://cdnfe2.azureedge.net/RCServer13/ondemand/OJSTCROT01EP05.mp4
+
+#EXTINF:0 tvg-logo="https://cometa.top/player3/imgs-videos/RCServer03/imgs-videos/O%20Justiceiro1.jpg" group-title="O Justiceiro", "01x06 - O Infiltrado"
+http://cdnfe2.azureedge.net/RCServer13/ondemand/OJSTCROT01EP06.mp4
+
+#EXTINF:0 tvg-logo="https://cometa.top/player3/imgs-videos/RCServer03/imgs-videos/O%20Justiceiro1.jpg" group-title="O Justiceiro", "01x07 - Na Mira"
+http://cdnfe2.azureedge.net/RCServer13/ondemand/OJSTCROT01EP07.mp4
+
+#EXTINF:0 tvg-logo="https://cometa.top/player3/imgs-videos/RCServer03/imgs-videos/O%20Justiceiro1.jpg" group-title="O Justiceiro", "01x08 - Aço Resfriado"
+http://cdnfe2.azureedge.net/RCServer13/ondemand/OJSTCROT01EP08.mp4
+
+#EXTINF:0 tvg-logo="https://cometa.top/player3/imgs-videos/RCServer03/imgs-videos/O%20Justiceiro1.jpg" group-title="O Justiceiro", "01x09 - Este Lado Para O Inimigo"
+http://cdnfe2.azureedge.net/RCServer13/ondemand/OJSTCROT01EP09.mp4
+
+#EXTINF:0 tvg-logo="https://cometa.top/player3/imgs-videos/RCServer03/imgs-videos/O%20Justiceiro1.jpg" group-title="O Justiceiro", "01x10 - Virtude dos Maus"
+http://cdnfe2.azureedge.net/RCServer13/ondemand/OJSTCROT01EP10.mp4
+
+#EXTINF:0 tvg-logo="https://cometa.top/player3/imgs-videos/RCServer03/imgs-videos/O%20Justiceiro1.jpg" group-title="O Justiceiro", "01x11 - Perigo Próximo"
+http://cdnfe2.azureedge.net/RCServer13/ondemand/OJSTCROT01EP11.mp4
+
+#EXTINF:0 tvg-logo="https://cometa.top/player3/imgs-videos/RCServer03/imgs-videos/O%20Justiceiro1.jpg" group-title="O Justiceiro", "01x12 - Lar"
+http://cdnfe2.azureedge.net/RCServer13/ondemand/OJSTCROT01EP12.mp4
+
+#EXTINF:0 tvg-logo="https://cometa.top/player3/imgs-videos/RCServer03/imgs-videos/O%20Justiceiro1.jpg" group-title="O Justiceiro", "01x13 - Memento Mori"
+http://cdnfe2.azureedge.net/RCServer13/ondemand/OJSTCROT01EP13.mp4
+
+#EXTINF:0 tvg-logo="https://cometa.top/player3/imgs-videos/Series/O%20Justiceiro%202.jpg" group-title="O Justiceiro", "02x01 - Briga de Bar"
+http://cdnfe2.azureedge.net/RCServer06/ondemand/OJSTCROT02EP01.mp4
+
+#EXTINF:0 tvg-logo="https://cometa.top/player3/imgs-videos/Series/O%20Justiceiro%202.jpg" group-title="O Justiceiro", "02x02 - Lutar ou Fugir"
+http://cdnfe2.azureedge.net/RCServer06/ondemand/OJSTCROT02EP02.mp4
+
+#EXTINF:0 tvg-logo="https://cometa.top/player3/imgs-videos/Series/O%20Justiceiro%202.jpg" group-title="O Justiceiro", "02x03 - Agitar a Água"
+http://cdnfe2.azureedge.net/RCServer06/ondemand/OJSTCROT02EP03.mp4
+
+#EXTINF:0 tvg-logo="https://cometa.top/player3/imgs-videos/Series/O%20Justiceiro%202.jpg" group-title="O Justiceiro", "02x04 - Cicatrizes do Passado"
+http://cdnfe2.azureedge.net/RCServer06/ondemand/OJSTCROT02EP04.mp4
+
+#EXTINF:0 tvg-logo="https://cometa.top/player3/imgs-videos/Series/O%20Justiceiro%202.jpg" group-title="O Justiceiro", "02x05 - O Jogo"
+http://cdnfe2.azureedge.net/RCServer06/ondemand/OJSTCROT02EP05.mp4
+
+#EXTINF:0 tvg-logo="https://cometa.top/player3/imgs-videos/Series/O%20Justiceiro%202.jpg" group-title="O Justiceiro", "02x06 - Nakazat"
+http://cdnfe2.azureedge.net/RCServer06/ondemand/OJSTCROT02EP06.mp4
+
+#EXTINF:0 tvg-logo="https://cometa.top/player3/imgs-videos/Series/O%20Justiceiro%202.jpg" group-title="O Justiceiro", "02x07 - Um Dia Ruim"
+http://cdnfe2.azureedge.net/RCServer06/ondemand/OJSTCROT02EP07.mp4
+
+#EXTINF:0 tvg-logo="https://cometa.top/player3/imgs-videos/Series/O%20Justiceiro%202.jpg" group-title="O Justiceiro", "02x08 - O Protetor do Meu Irmão"
+http://cdnfe2.azureedge.net/RCServer06/ondemand/OJSTCROT02EP08.mp4
+
+#EXTINF:0 tvg-logo="https://cometa.top/player3/imgs-videos/Series/O%20Justiceiro%202.jpg" group-title="O Justiceiro", "02x09 - A Recompensa"
+http://cdnfe2.azureedge.net/RCServer06/ondemand/OJSTCROT02EP09.mp4
+
+#EXTINF:0 tvg-logo="https://cometa.top/player3/imgs-videos/Series/O%20Justiceiro%202.jpg" group-title="O Justiceiro", "02x10 - Coração Sombrio"
+http://cdnfe2.azureedge.net/RCServer06/ondemand/OJSTCROT02EP10.mp4
+
+#EXTINF:0 tvg-logo="https://cometa.top/player3/imgs-videos/Series/O%20Justiceiro%202.jpg" group-title="O Justiceiro", "02x11 - O Abismo"
+http://cdnfe2.azureedge.net/RCServer06/ondemand/OJSTCROT02EP11.mp4
+
+#EXTINF:0 tvg-logo="https://cometa.top/player3/imgs-videos/Series/O%20Justiceiro%202.jpg" group-title="O Justiceiro", "02x12 - Rota de Colisão"
+http://cdnfe2.azureedge.net/RCServer06/ondemand/OJSTCROT02EP12.mp4
+
+#EXTINF:0 tvg-logo="https://cometa.top/player3/imgs-videos/Series/O%20Justiceiro%202.jpg" group-title="O Justiceiro", "02x13 - A Tormenta"
+http://cdnfe2.azureedge.net/RCServer06/ondemand/OJSTCROT02EP13.mp4
