@@ -1,0 +1,58 @@
+
+
+#EXTM3U size=“Medium”” 
+################## Dark ########################
+
+#EXTINF:0 tvg-logo="https://cometa.top/player3/imgs-videos/Series/Dark%201.jpg" group-title="Dark", "01x01 - Segredos"
+http://cdnfe2.azureedge.net/RCServer03/ondemand/DRKT01EP01.mp4
+
+#EXTINF:0 tvg-logo="https://cometa.top/player3/imgs-videos/Series/Dark%201.jpg" group-title="Dark", "01x02 - Mentiras"
+http://cdnfe2.azureedge.net/RCServer03/ondemand/DRKT01EP02.mp4
+
+#EXTINF:0 tvg-logo="https://cometa.top/player3/imgs-videos/Series/Dark%201.jpg" group-title="Dark", "01x03 - Passado e Presente"
+http://cdnfe2.azureedge.net/RCServer03/ondemand/DRKT01EP03.mp4
+
+#EXTINF:0 tvg-logo="https://cometa.top/player3/imgs-videos/Series/Dark%201.jpg" group-title="Dark", "01x04 - Vidas Duplas"
+http://cdnfe2.azureedge.net/RCServer03/ondemand/DRKT01EP04.mp4
+
+#EXTINF:0 tvg-logo="https://cometa.top/player3/imgs-videos/Series/Dark%201.jpg" group-title="Dark", "01x05 - Verdades"
+http://cdnfe2.azureedge.net/RCServer03/ondemand/DRKT01EP05.mp4
+
+#EXTINF:0 tvg-logo="https://cometa.top/player3/imgs-videos/Series/Dark%201.jpg" group-title="Dark", "01x06 - Assim Foi Criado o Mundo"
+http://cdnfe2.azureedge.net/RCServer03/ondemand/DRKT01EP06.mp4
+
+#EXTINF:0 tvg-logo="https://cometa.top/player3/imgs-videos/Series/Dark%201.jpg" group-title="Dark", "01x07 - Ponto Crítico"
+http://cdnfe2.azureedge.net/RCServer03/ondemand/DRKT01EP07.mp4
+
+#EXTINF:0 tvg-logo="https://cometa.top/player3/imgs-videos/Series/Dark%201.jpg" group-title="Dark", "01x08 - Você Colhe o Que Planta"
+http://cdnfe2.azureedge.net/RCServer03/ondemand/DRKT01EP08.mp4
+
+#EXTINF:0 tvg-logo="https://cometa.top/player3/imgs-videos/Series/Dark%201.jpg" group-title="Dark", "01x09 - Tudo Acontece Agora"
+http://cdnfe2.azureedge.net/RCServer03/ondemand/DRKT01EP09.mp4
+
+#EXTINF:0 tvg-logo="https://cometa.top/player3/imgs-videos/Series/Dark%201.jpg" group-title="Dark", "01x10 - Alfa e Ômega"
+http://cdnfe2.azureedge.net/RCServer03/ondemand/DRKT01EP10.mp4
+
+#EXTINF:0 tvg-logo="https://cometa.top/player3/imgs-videos/Series/Dark%202.jpg" group-title="Dark", "02x01 - Começos e Fins"
+http://cdnfe2.azureedge.net/RCServer03/ondemand/DRKT02EP01.mp4
+
+#EXTINF:0 tvg-logo="https://cometa.top/player3/imgs-videos/Series/Dark%202.jpg" group-title="Dark", "02x02 - Matéria Escura"
+http://cdnfe2.azureedge.net/RCServer03/ondemand/DRKT02EP02.mp4
+
+#EXTINF:0 tvg-logo="https://cometa.top/player3/imgs-videos/Series/Dark%202.jpg" group-title="Dark", "02x03 - Fantasmas"
+http://cdnfe2.azureedge.net/RCServer03/ondemand/DRKT02EP03.mp4
+
+#EXTINF:0 tvg-logo="https://cometa.top/player3/imgs-videos/Series/Dark%202.jpg" group-title="Dark", "02x04 - Os Viajantes"
+http://cdnfe2.azureedge.net/RCServer03/ondemand/DRKT02EP04.mp4
+
+#EXTINF:0 tvg-logo="https://cometa.top/player3/imgs-videos/Series/Dark%202.jpg" group-title="Dark", "02x05 - Achados e Perdidos"
+http://cdnfe2.azureedge.net/RCServer03/ondemand/DRKT02EP05.mp4
+
+#EXTINF:0 tvg-logo="https://cometa.top/player3/imgs-videos/Series/Dark%202.jpg" group-title="Dark", "02x06 - Ciclo Sem Fim"
+http://cdnfe2.azureedge.net/RCServer03/ondemand/DRKT02EP06.mp4
+
+#EXTINF:0 tvg-logo="https://cometa.top/player3/imgs-videos/Series/Dark%202.jpg" group-title="Dark", "02x07 - Diabo Branco"
+http://cdnfe2.azureedge.net/RCServer03/ondemand/DRKT02EP07.mp4
+
+#EXTINF:0 tvg-logo="https://cometa.top/player3/imgs-videos/Series/Dark%202.jpg" group-title="Dark", "02x08 - Fins e Começos"
+http://cdnfe2.azureedge.net/RCServer03/ondemand/DRKT02EP08.mp4
