@@ -1,0 +1,363 @@
+
+
+#EXTM3U size="Medium"
+
+################## Agents of S.H.I.E.L.D. ########################
+
+#EXTM3U size="Medium"
+#EXTINF:0 tvg-logo="https://cometa.top/player3/imgs-videos/RCServer05/imgs-videos/Agents%20of%20S.H.I.E.L.D.1.jpg" group-title="Agents of S.H.I.E.L.D.", "01x01 - Piloto"
+http://cdnfe3.azureedge.net/RCServer08/ondemand/AGTOSHLDT01EP01.mp4
+
+#EXTINF:0 tvg-logo="https://cometa.top/player3/imgs-videos/RCServer05/imgs-videos/Agents%20of%20S.H.I.E.L.D.1.jpg" group-title="Agents of S.H.I.E.L.D.", "01x02 - 0–8–4"
+http://cdnfe3.azureedge.net/RCServer08/ondemand/AGTOSHLDT01EP02.mp4
+
+#EXTINF:0 tvg-logo="https://cometa.top/player3/imgs-videos/RCServer05/imgs-videos/Agents%20of%20S.H.I.E.L.D.1.jpg" group-title="Agents of S.H.I.E.L.D.", "01x03 - O Activo"
+http://cdnfe3.azureedge.net/RCServer08/ondemand/AGTOSHLDT01EP03.mp4
+
+#EXTINF:0 tvg-logo="https://cometa.top/player3/imgs-videos/RCServer05/imgs-videos/Agents%20of%20S.H.I.E.L.D.1.jpg" group-title="Agents of S.H.I.E.L.D.", "01x04 - Olho de Espião"
+http://cdnfe3.azureedge.net/RCServer08/ondemand/AGTOSHLDT01EP04.mp4
+
+#EXTINF:0 tvg-logo="https://cometa.top/player3/imgs-videos/RCServer05/imgs-videos/Agents%20of%20S.H.I.E.L.D.1.jpg" group-title="Agents of S.H.I.E.L.D.", "01x05 - Menina de Vestido de Flor"
+http://cdnfe3.azureedge.net/RCServer08/ondemand/AGTOSHLDT01EP05.mp4
+
+#EXTINF:0 tvg-logo="https://cometa.top/player3/imgs-videos/RCServer05/imgs-videos/Agents%20of%20S.H.I.E.L.D.1.jpg" group-title="Agents of S.H.I.E.L.D.", "01x06 - FZZT"
+http://cdnfe3.azureedge.net/RCServer08/ondemand/AGTOSHLDT01EP06.mp4
+
+#EXTINF:0 tvg-logo="https://cometa.top/player3/imgs-videos/RCServer05/imgs-videos/Agents%20of%20S.H.I.E.L.D.1.jpg" group-title="Agents of S.H.I.E.L.D.", "01x07 - O Cubo"
+http://cdnfe3.azureedge.net/RCServer08/ondemand/AGTOSHLDT01EP07.mp4
+
+#EXTINF:0 tvg-logo="https://cometa.top/player3/imgs-videos/RCServer05/imgs-videos/Agents%20of%20S.H.I.E.L.D.1.jpg" group-title="Agents of S.H.I.E.L.D.", "01x08 - O Poço"
+http://cdnfe3.azureedge.net/RCServer08/ondemand/AGTOSHLDT01EP08.mp4
+
+#EXTINF:0 tvg-logo="https://cometa.top/player3/imgs-videos/RCServer05/imgs-videos/Agents%20of%20S.H.I.E.L.D.1.jpg" group-title="Agents of S.H.I.E.L.D.", "01x09 - Reparos"
+http://cdnfe3.azureedge.net/RCServer08/ondemand/AGTOSHLDT01EP09.mp4
+
+#EXTINF:0 tvg-logo="https://cometa.top/player3/imgs-videos/RCServer05/imgs-videos/Agents%20of%20S.H.I.E.L.D.1.jpg" group-title="Agents of S.H.I.E.L.D.", "01x10 - A Ponte"
+http://cdnfe3.azureedge.net/RCServer08/ondemand/AGTOSHLDT01EP10.mp4
+
+#EXTINF:0 tvg-logo="https://cometa.top/player3/imgs-videos/RCServer05/imgs-videos/Agents%20of%20S.H.I.E.L.D.1.jpg" group-title="Agents of S.H.I.E.L.D.", "01x11 - O Lugar Mágico"
+http://cdnfe3.azureedge.net/RCServer09/ondemand/AGTOSHLDT01EP11.mp4
+
+#EXTINF:0 tvg-logo="https://cometa.top/player3/imgs-videos/RCServer05/imgs-videos/Agents%20of%20S.H.I.E.L.D.1.jpg" group-title="Agents of S.H.I.E.L.D.", "01x12 - Semente"
+http://cdnfe3.azureedge.net/RCServer09/ondemand/AGTOSHLDT01EP12.mp4
+
+#EXTINF:0 tvg-logo="https://cometa.top/player3/imgs-videos/RCServer05/imgs-videos/Agents%20of%20S.H.I.E.L.D.1.jpg" group-title="Agents of S.H.I.E.L.D.", "01x13 - T.R.I.L.H.A."
+http://cdnfe3.azureedge.net/RCServer09/ondemand/AGTOSHLDT01EP13.mp4
+
+#EXTINF:0 tvg-logo="https://cometa.top/player3/imgs-videos/RCServer05/imgs-videos/Agents%20of%20S.H.I.E.L.D.1.jpg" group-title="Agents of S.H.I.E.L.D.", "01x14 - TAITI"
+http://cdnfe3.azureedge.net/RCServer09/ondemand/AGTOSHLDT01EP14.mp4
+
+#EXTINF:0 tvg-logo="https://cometa.top/player3/imgs-videos/RCServer05/imgs-videos/Agents%20of%20S.H.I.E.L.D.1.jpg" group-title="Agents of S.H.I.E.L.D.", "01x15 - Sim Homens"
+http://cdnfe3.azureedge.net/RCServer09/ondemand/AGTOSHLDT01EP15.mp4
+
+#EXTINF:0 tvg-logo="https://cometa.top/player3/imgs-videos/RCServer05/imgs-videos/Agents%20of%20S.H.I.E.L.D.1.jpg" group-title="Agents of S.H.I.E.L.D.", "01x16 - Fim do Começo"
+http://cdnfe3.azureedge.net/RCServer09/ondemand/AGTOSHLDT01EP16.mp4
+
+#EXTINF:0 tvg-logo="https://cometa.top/player3/imgs-videos/RCServer05/imgs-videos/Agents%20of%20S.H.I.E.L.D.1.jpg" group-title="Agents of S.H.I.E.L.D.", "01x17 - Voltas, Voltas, Voltas"
+http://cdnfe3.azureedge.net/RCServer09/ondemand/AGTOSHLDT01EP17.mp4
+
+#EXTINF:0 tvg-logo="https://cometa.top/player3/imgs-videos/RCServer05/imgs-videos/Agents%20of%20S.H.I.E.L.D.1.jpg" group-title="Agents of S.H.I.E.L.D.", "01x18 - Providência"
+http://cdnfe3.azureedge.net/RCServer09/ondemand/AGTOSHLDT01EP18.mp4
+
+#EXTINF:0 tvg-logo="https://cometa.top/player3/imgs-videos/RCServer05/imgs-videos/Agents%20of%20S.H.I.E.L.D.1.jpg" group-title="Agents of S.H.I.E.L.D.", "01x19 - A Única Luz na Escuridão"
+http://cdnfe3.azureedge.net/RCServer09/ondemand/AGTOSHLDT01EP19.mp4
+
+#EXTINF:0 tvg-logo="https://cometa.top/player3/imgs-videos/RCServer05/imgs-videos/Agents%20of%20S.H.I.E.L.D.1.jpg" group-title="Agents of S.H.I.E.L.D.", "01x20 - Nada Pessoal"
+http://cdnfe3.azureedge.net/RCServer09/ondemand/AGTOSHLDT01EP20.mp4
+
+#EXTINF:0 tvg-logo="https://cometa.top/player3/imgs-videos/RCServer05/imgs-videos/Agents%20of%20S.H.I.E.L.D.1.jpg" group-title="Agents of S.H.I.E.L.D.", "01x21 - Gentalha"
+http://cdnfe3.azureedge.net/RCServer09/ondemand/AGTOSHLDT01EP21.mp4
+
+#EXTINF:0 tvg-logo="https://cometa.top/player3/imgs-videos/RCServer05/imgs-videos/Agents%20of%20S.H.I.E.L.D.1.jpg" group-title="Agents of S.H.I.E.L.D.", "01x22 - Início do Fim"
+http://cdnfe3.azureedge.net/RCServer09/ondemand/AGTOSHLDT01EP22.mp4
+
+#EXTINF:0 tvg-logo="https://cometa.top/player3/imgs-videos/RCServer08/imgs-videos/Agents%20Of%20S.H.I.E.L.D.2.jpg" group-title="Agents of S.H.I.E.L.D.", "02x01 - Sombras"
+http://cdnfe3.azureedge.net/RCServer09/ondemand/AGTOSHLDT02EP01.mp4
+
+#EXTINF:0 tvg-logo="https://cometa.top/player3/imgs-videos/RCServer08/imgs-videos/Agents%20Of%20S.H.I.E.L.D.2.jpg" group-title="Agents of S.H.I.E.L.D.", "02x02 - A Força do Chefe"
+http://cdnfe3.azureedge.net/RCServer09/ondemand/AGTOSHLDT02EP02.mp4
+
+#EXTINF:0 tvg-logo="https://cometa.top/player3/imgs-videos/RCServer08/imgs-videos/Agents%20Of%20S.H.I.E.L.D.2.jpg" group-title="Agents of S.H.I.E.L.D.", "02x03 - Fazendo Amigos e Influenciando Pessoas"
+http://cdnfe3.azureedge.net/RCServer09/ondemand/AGTOSHLDT02EP03.mp4
+
+#EXTINF:0 tvg-logo="https://cometa.top/player3/imgs-videos/RCServer08/imgs-videos/Agents%20Of%20S.H.I.E.L.D.2.jpg" group-title="Agents of S.H.I.E.L.D.", "02x04 - Enfrente o Meu Inimigo"
+http://cdnfe3.azureedge.net/RCServer09/ondemand/AGTOSHLDT02EP04.mp4
+
+#EXTINF:0 tvg-logo="https://cometa.top/player3/imgs-videos/RCServer08/imgs-videos/Agents%20Of%20S.H.I.E.L.D.2.jpg" group-title="Agents of S.H.I.E.L.D.", "02x05 - Uma Galinha na Casa do Lobo"
+http://cdnfe3.azureedge.net/RCServer09/ondemand/AGTOSHLDT02EP05.mp4
+
+#EXTINF:0 tvg-logo="https://cometa.top/player3/imgs-videos/RCServer08/imgs-videos/Agents%20Of%20S.H.I.E.L.D.2.jpg" group-title="Agents of S.H.I.E.L.D.", "02x06 - Uma Casa Fraturada"
+http://cdnfe3.azureedge.net/RCServer09/ondemand/AGTOSHLDT02EP06.mp4
+
+#EXTINF:0 tvg-logo="https://cometa.top/player3/imgs-videos/RCServer08/imgs-videos/Agents%20Of%20S.H.I.E.L.D.2.jpg" group-title="Agents of S.H.I.E.L.D.", "02x07 - A Escrita na Parede"
+http://cdnfe3.azureedge.net/RCServer09/ondemand/AGTOSHLDT02EP07.mp4
+
+#EXTINF:0 tvg-logo="https://cometa.top/player3/imgs-videos/RCServer08/imgs-videos/Agents%20Of%20S.H.I.E.L.D.2.jpg" group-title="Agents of S.H.I.E.L.D.", "02x08 - As Coisas Que Nós Enterramos"
+http://cdnfe3.azureedge.net/RCServer09/ondemand/AGTOSHLDT02EP08.mp4
+
+#EXTINF:0 tvg-logo="https://cometa.top/player3/imgs-videos/RCServer08/imgs-videos/Agents%20Of%20S.H.I.E.L.D.2.jpg" group-title="Agents of S.H.I.E.L.D.", "02x09 - ... Vós que Aqui Entrais"
+http://cdnfe3.azureedge.net/RCServer09/ondemand/AGTOSHLDT02EP09.mp4
+
+#EXTINF:0 tvg-logo="https://cometa.top/player3/imgs-videos/RCServer08/imgs-videos/Agents%20Of%20S.H.I.E.L.D.2.jpg" group-title="Agents of S.H.I.E.L.D.", "02x10 - O Que Eles Se Tornam"
+http://cdnfe3.azureedge.net/RCServer09/ondemand/AGTOSHLDT02EP10.mp4
+
+#EXTINF:0 tvg-logo="https://cometa.top/player3/imgs-videos/RCServer08/imgs-videos/Agents%20Of%20S.H.I.E.L.D.2.jpg" group-title="Agents of S.H.I.E.L.D.", "02x11 - Réplicas"
+http://cdnfe3.azureedge.net/RCServer09/ondemand/AGTOSHLDT02EP11.mp4
+
+#EXTINF:0 tvg-logo="https://cometa.top/player3/imgs-videos/RCServer08/imgs-videos/Agents%20Of%20S.H.I.E.L.D.2.jpg" group-title="Agents of S.H.I.E.L.D.", "02x12 - Quem Você Realmente É"
+http://cdnfe3.azureedge.net/RCServer09/ondemand/AGTOSHLDT02EP12.mp4
+
+#EXTINF:0 tvg-logo="https://cometa.top/player3/imgs-videos/RCServer08/imgs-videos/Agents%20Of%20S.H.I.E.L.D.2.jpg" group-title="Agents of S.H.I.E.L.D.", "02x13 - Um de Nós"
+http://cdnfe3.azureedge.net/RCServer09/ondemand/AGTOSHLDT02EP13.mp4
+
+#EXTINF:0 tvg-logo="https://cometa.top/player3/imgs-videos/RCServer08/imgs-videos/Agents%20Of%20S.H.I.E.L.D.2.jpg" group-title="Agents of S.H.I.E.L.D.", "02x14 - O Amor nos Tempos de Hydra"
+http://cdnfe3.azureedge.net/RCServer09/ondemand/AGTOSHLDT02EP14.mp4
+
+#EXTINF:0 tvg-logo="https://cometa.top/player3/imgs-videos/RCServer08/imgs-videos/Agents%20Of%20S.H.I.E.L.D.2.jpg" group-title="Agents of S.H.I.E.L.D.", "02x15 - Uma Porta se Fecha"
+http://cdnfe3.azureedge.net/RCServer09/ondemand/AGTOSHLDT02EP15.mp4
+
+#EXTINF:0 tvg-logo="https://cometa.top/player3/imgs-videos/RCServer08/imgs-videos/Agents%20Of%20S.H.I.E.L.D.2.jpg" group-title="Agents of S.H.I.E.L.D.", "02x16 - Vida Após a Morte"
+http://cdnfe3.azureedge.net/RCServer09/ondemand/AGTOSHLDT02EP16.mp4
+
+#EXTINF:0 tvg-logo="https://cometa.top/player3/imgs-videos/RCServer08/imgs-videos/Agents%20Of%20S.H.I.E.L.D.2.jpg" group-title="Agents of S.H.I.E.L.D.", "02x17 - Melinda"
+http://cdnfe3.azureedge.net/RCServer09/ondemand/AGTOSHLDT02EP17.mp4
+
+#EXTINF:0 tvg-logo="https://cometa.top/player3/imgs-videos/RCServer08/imgs-videos/Agents%20Of%20S.H.I.E.L.D.2.jpg" group-title="Agents of S.H.I.E.L.D.", "02x18 - A Inimiga do Meu Inimigo"
+http://cdnfe3.azureedge.net/RCServer09/ondemand/AGTOSHLDT02EP18.mp4
+
+#EXTINF:0 tvg-logo="https://cometa.top/player3/imgs-videos/RCServer08/imgs-videos/Agents%20Of%20S.H.I.E.L.D.2.jpg" group-title="Agents of S.H.I.E.L.D.", "02x19 - O Doze Sujos Metade"
+http://cdnfe3.azureedge.net/RCServer09/ondemand/AGTOSHLDT02EP19.mp4
+
+#EXTINF:0 tvg-logo="https://cometa.top/player3/imgs-videos/RCServer08/imgs-videos/Agents%20Of%20S.H.I.E.L.D.2.jpg" group-title="Agents of S.H.I.E.L.D.", "02x20 - Cicatrizes"
+http://cdnfe3.azureedge.net/RCServer09/ondemand/AGTOSHLDT02EP20.mp4
+
+#EXTINF:0 tvg-logo="https://cometa.top/player3/imgs-videos/RCServer08/imgs-videos/Agents%20Of%20S.H.I.E.L.D.2.jpg" group-title="Agents of S.H.I.E.L.D.", "02x21 - S.O.S. (Parte 1)"
+http://cdnfe3.azureedge.net/RCServer09/ondemand/AGTOSHLDT02EP21.mp4
+
+#EXTINF:0 tvg-logo="https://cometa.top/player3/imgs-videos/RCServer08/imgs-videos/Agents%20Of%20S.H.I.E.L.D.2.jpg" group-title="Agents of S.H.I.E.L.D.", "02x22 - S.O.S. (Parte 2)"
+http://cdnfe3.azureedge.net/RCServer09/ondemand/AGTOSHLDT02EP22.mp4
+
+#EXTINF:0 tvg-logo="https://cometa.top/player3/imgs-videos/RCServer08/imgs-videos/Agents%20of%20S.H.I.E.L.D.3.jpg" group-title="Agents of S.H.I.E.L.D.", "03x01 - Leis da Natureza"
+http://cdnfe3.azureedge.net/RCServer10/ondemand/AGTOSHLDT03EP01.mp4
+
+#EXTINF:0 tvg-logo="https://cometa.top/player3/imgs-videos/RCServer08/imgs-videos/Agents%20of%20S.H.I.E.L.D.3.jpg" group-title="Agents of S.H.I.E.L.D.", "03x02 - Finalidade da Máquina"
+http://cdnfe3.azureedge.net/RCServer10/ondemand/AGTOSHLDT03EP02.mp4
+
+#EXTINF:0 tvg-logo="https://cometa.top/player3/imgs-videos/RCServer08/imgs-videos/Agents%20of%20S.H.I.E.L.D.3.jpg" group-title="Agents of S.H.I.E.L.D.", "03x03 - Um Homem Procurado"
+http://cdnfe3.azureedge.net/RCServer10/ondemand/AGTOSHLDT03EP03.mp4
+
+#EXTINF:0 tvg-logo="https://cometa.top/player3/imgs-videos/RCServer08/imgs-videos/Agents%20of%20S.H.I.E.L.D.3.jpg" group-title="Agents of S.H.I.E.L.D.", "03x04 - Demônios, Que Você Sabe"
+http://cdnfe3.azureedge.net/RCServer10/ondemand/AGTOSHLDT03EP04.mp4
+
+#EXTINF:0 tvg-logo="https://cometa.top/player3/imgs-videos/RCServer08/imgs-videos/Agents%20of%20S.H.I.E.L.D.3.jpg" group-title="Agents of S.H.I.E.L.D.", "03x05 - 4.722 Horas"
+http://cdnfe3.azureedge.net/RCServer10/ondemand/AGTOSHLDT03EP05.mp4
+
+#EXTINF:0 tvg-logo="https://cometa.top/player3/imgs-videos/RCServer08/imgs-videos/Agents%20of%20S.H.I.E.L.D.3.jpg" group-title="Agents of S.H.I.E.L.D.", "03x06 - Entre nos Esconder..."
+http://cdnfe3.azureedge.net/RCServer10/ondemand/AGTOSHLDT03EP06.mp4
+
+#EXTINF:0 tvg-logo="https://cometa.top/player3/imgs-videos/RCServer08/imgs-videos/Agents%20of%20S.H.I.E.L.D.3.jpg" group-title="Agents of S.H.I.E.L.D.", "03x07 - Teoria do Caos"
+http://cdnfe3.azureedge.net/RCServer10/ondemand/AGTOSHLDT03EP07.mp4
+
+#EXTINF:0 tvg-logo="https://cometa.top/player3/imgs-videos/RCServer08/imgs-videos/Agents%20of%20S.H.I.E.L.D.3.jpg" group-title="Agents of S.H.I.E.L.D.", "03x08 - Muitas Cabeças, Um Conto"
+http://cdnfe3.azureedge.net/RCServer10/ondemand/AGTOSHLDT03EP08.mp4
+
+#EXTINF:0 tvg-logo="https://cometa.top/player3/imgs-videos/RCServer08/imgs-videos/Agents%20of%20S.H.I.E.L.D.3.jpg" group-title="Agents of S.H.I.E.L.D.", "03x09 - Encerramento"
+http://cdnfe3.azureedge.net/RCServer10/ondemand/AGTOSHLDT03EP09.mp4
+
+#EXTINF:0 tvg-logo="https://cometa.top/player3/imgs-videos/RCServer08/imgs-videos/Agents%20of%20S.H.I.E.L.D.3.jpg" group-title="Agents of S.H.I.E.L.D.", "03x10 - Maveth"
+http://cdnfe3.azureedge.net/RCServer10/ondemand/AGTOSHLDT03EP10.mp4
+
+#EXTINF:0 tvg-logo="https://cometa.top/player3/imgs-videos/RCServer08/imgs-videos/Agents%20of%20S.H.I.E.L.D.3.jpg" group-title="Agents of S.H.I.E.L.D.", "03x11 - Recuperando"
+http://cdnfe3.azureedge.net/RCServer10/ondemand/AGTOSHLDT03EP11.mp4
+
+#EXTINF:0 tvg-logo="https://cometa.top/player3/imgs-videos/RCServer08/imgs-videos/Agents%20of%20S.H.I.E.L.D.3.jpg" group-title="Agents of S.H.I.E.L.D.", "03x12 - O Homem Interior"
+http://cdnfe3.azureedge.net/RCServer10/ondemand/AGTOSHLDT03EP12.mp4
+
+#EXTINF:0 tvg-logo="https://cometa.top/player3/imgs-videos/RCServer08/imgs-videos/Agents%20of%20S.H.I.E.L.D.3.jpg" group-title="Agents of S.H.I.E.L.D.", "03x13 - Tiro de Despedida"
+http://cdnfe3.azureedge.net/RCServer10/ondemand/AGTOSHLDT03EP13.mp4
+
+#EXTINF:0 tvg-logo="https://cometa.top/player3/imgs-videos/RCServer08/imgs-videos/Agents%20of%20S.H.I.E.L.D.3.jpg" group-title="Agents of S.H.I.E.L.D.", "03x14 - Cães de Guarda"
+http://cdnfe3.azureedge.net/RCServer10/ondemand/AGTOSHLDT03EP14.mp4
+
+#EXTINF:0 tvg-logo="https://cometa.top/player3/imgs-videos/RCServer08/imgs-videos/Agents%20of%20S.H.I.E.L.D.3.jpg" group-title="Agents of S.H.I.E.L.D.", "03x15 - Espaço-tempo"
+http://cdnfe3.azureedge.net/RCServer10/ondemand/AGTOSHLDT03EP15.mp4
+
+#EXTINF:0 tvg-logo="https://cometa.top/player3/imgs-videos/RCServer08/imgs-videos/Agents%20of%20S.H.I.E.L.D.3.jpg" group-title="Agents of S.H.I.E.L.D.", "03x16 - Paraíso Perdido"
+http://cdnfe3.azureedge.net/RCServer10/ondemand/AGTOSHLDT03EP16.mp4
+
+#EXTINF:0 tvg-logo="https://cometa.top/player3/imgs-videos/RCServer08/imgs-videos/Agents%20of%20S.H.I.E.L.D.3.jpg" group-title="Agents of S.H.I.E.L.D.", "03x17 - A Equipe"
+http://cdnfe3.azureedge.net/RCServer10/ondemand/AGTOSHLDT03EP17.mp4
+
+#EXTINF:0 tvg-logo="https://cometa.top/player3/imgs-videos/RCServer08/imgs-videos/Agents%20of%20S.H.I.E.L.D.3.jpg" group-title="Agents of S.H.I.E.L.D.", "03x18 - A Singularidade"
+http://cdnfe3.azureedge.net/RCServer10/ondemand/AGTOSHLDT03EP18.mp4
+
+#EXTINF:0 tvg-logo="https://cometa.top/player3/imgs-videos/RCServer08/imgs-videos/Agents%20of%20S.H.I.E.L.D.3.jpg" group-title="Agents of S.H.I.E.L.D.", "03x19 - Experiências Falhadas"
+http://cdnfe3.azureedge.net/RCServer10/ondemand/AGTOSHLDT03EP19.mp4
+
+#EXTINF:0 tvg-logo="https://cometa.top/player3/imgs-videos/RCServer08/imgs-videos/Agents%20of%20S.H.I.E.L.D.3.jpg" group-title="Agents of S.H.I.E.L.D.", "03x20 - Libertação"
+http://cdnfe3.azureedge.net/RCServer10/ondemand/AGTOSHLDT03EP20.mp4
+
+#EXTINF:0 tvg-logo="https://cometa.top/player3/imgs-videos/RCServer08/imgs-videos/Agents%20of%20S.H.I.E.L.D.3.jpg" group-title="Agents of S.H.I.E.L.D.", "03x21 - Perdoado"
+http://cdnfe3.azureedge.net/RCServer10/ondemand/AGTOSHLDT03EP21.mp4
+
+#EXTINF:0 tvg-logo="https://cometa.top/player3/imgs-videos/RCServer08/imgs-videos/Agents%20of%20S.H.I.E.L.D.3.jpg" group-title="Agents of S.H.I.E.L.D.", "03x22 - Ascensão"
+http://cdnfe3.azureedge.net/RCServer10/ondemand/AGTOSHLDT03EP22.mp4
+
+#EXTINF:0 tvg-logo="https://cometa.top/player3/imgs-videos/RCServer08/imgs-videos/Agents%20Of%20S.H.I.E.L.D.4.jpg" group-title="Agents of S.H.I.E.L.D.", "04x01 - O Fantasma"
+http://cdnfe2.azureedge.net/RCServer12/ondemand/AGTOSHLDT04EP01.mp4
+
+#EXTINF:0 tvg-logo="https://cometa.top/player3/imgs-videos/RCServer08/imgs-videos/Agents%20Of%20S.H.I.E.L.D.4.jpg" group-title="Agents of S.H.I.E.L.D.", "04x02 - Conhecendo o Novo Chefe"
+http://cdnfe2.azureedge.net/RCServer12/ondemand/AGTOSHLDT04EP02.mp4
+
+#EXTINF:0 tvg-logo="https://cometa.top/player3/imgs-videos/RCServer08/imgs-videos/Agents%20Of%20S.H.I.E.L.D.4.jpg" group-title="Agents of S.H.I.E.L.D.", "04x03 - Revolta"
+http://cdnfe2.azureedge.net/RCServer12/ondemand/AGTOSHLDT04EP03.mp4
+
+#EXTINF:0 tvg-logo="https://cometa.top/player3/imgs-videos/RCServer08/imgs-videos/Agents%20Of%20S.H.I.E.L.D.4.jpg" group-title="Agents of S.H.I.E.L.D.", "04x04 - Deixe-me Ficar Próximo do Seu Fogo"
+http://cdnfe2.azureedge.net/RCServer05/ondemand/AGTOSHLDT04EP04.mp4
+
+#EXTINF:0 tvg-logo="https://cometa.top/player3/imgs-videos/RCServer08/imgs-videos/Agents%20Of%20S.H.I.E.L.D.4.jpg" group-title="Agents of S.H.I.E.L.D.", "04x05 - Trancado"
+http://cdnfe2.azureedge.net/RCServer05/ondemand/AGTOSHLDT04EP05.mp4
+
+#EXTINF:0 tvg-logo="https://cometa.top/player3/imgs-videos/RCServer08/imgs-videos/Agents%20Of%20S.H.I.E.L.D.4.jpg" group-title="Agents of S.H.I.E.L.D.", "04x06 - O Bom Samaritano"
+http://cdnfe2.azureedge.net/RCServer05/ondemand/AGTOSHLDT04EP06.mp4
+
+#EXTINF:0 tvg-logo="https://cometa.top/player3/imgs-videos/RCServer08/imgs-videos/Agents%20Of%20S.H.I.E.L.D.4.jpg" group-title="Agents of S.H.I.E.L.D.", "04x07 - Lida Com Nossos Demônios"
+http://cdnfe2.azureedge.net/RCServer05/ondemand/AGTOSHLDT04EP07.mp4
+
+#EXTINF:0 tvg-logo="https://cometa.top/player3/imgs-videos/RCServer08/imgs-videos/Agents%20Of%20S.H.I.E.L.D.4.jpg" group-title="Agents of S.H.I.E.L.D.", "04x08 - As Leis da Dinâmica do Inferno"
+http://cdnfe2.azureedge.net/RCServer05/ondemand/AGTOSHLDT04EP08.mp4
+
+#EXTINF:0 tvg-logo="https://cometa.top/player3/imgs-videos/RCServer08/imgs-videos/Agents%20Of%20S.H.I.E.L.D.4.jpg" group-title="Agents of S.H.I.E.L.D.", "04x09 - Promessas Quebradas"
+http://cdnfe2.azureedge.net/RCServer05/ondemand/AGTOSHLDT04EP09.mp4
+
+#EXTINF:0 tvg-logo="https://cometa.top/player3/imgs-videos/RCServer08/imgs-videos/Agents%20Of%20S.H.I.E.L.D.4.jpg" group-title="Agents of S.H.I.E.L.D.", "04x10 - O Patriota"
+http://cdnfe2.azureedge.net/RCServer05/ondemand/AGTOSHLDT04EP10.mp4
+
+#EXTINF:0 tvg-logo="https://cometa.top/player3/imgs-videos/RCServer08/imgs-videos/Agents%20Of%20S.H.I.E.L.D.4.jpg" group-title="Agents of S.H.I.E.L.D.", "04x11 - Acorde"
+http://cdnfe2.azureedge.net/RCServer05/ondemand/AGTOSHLDT04EP11.mp4
+
+#EXTINF:0 tvg-logo="https://cometa.top/player3/imgs-videos/RCServer08/imgs-videos/Agents%20Of%20S.H.I.E.L.D.4.jpg" group-title="Agents of S.H.I.E.L.D.", "04x12 - Sopa de Batata Quente"
+http://cdnfe3.azureedge.net/RCServer09/ondemand/AGTOSHLDT04EP12.mp4
+
+#EXTINF:0 tvg-logo="https://cometa.top/player3/imgs-videos/RCServer08/imgs-videos/Agents%20Of%20S.H.I.E.L.D.4.jpg" group-title="Agents of S.H.I.E.L.D.", "04x13 - BOOM"
+http://cdnfe3.azureedge.net/RCServer09/ondemand/AGTOSHLDT04EP13.mp4
+
+#EXTINF:0 tvg-logo="https://cometa.top/player3/imgs-videos/RCServer08/imgs-videos/Agents%20Of%20S.H.I.E.L.D.4.jpg" group-title="Agents of S.H.I.E.L.D.", "04x14 - O Homem Atrás da Shield"
+http://cdnfe3.azureedge.net/RCServer09/ondemand/AGTOSHLDT04EP14.mp4
+
+#EXTINF:0 tvg-logo="https://cometa.top/player3/imgs-videos/RCServer08/imgs-videos/Agents%20Of%20S.H.I.E.L.D.4.jpg" group-title="Agents of S.H.I.E.L.D.", "04x15 - Auto Controle"
+http://cdnfe3.azureedge.net/RCServer09/ondemand/AGTOSHLDT04EP15.mp4
+
+#EXTINF:0 tvg-logo="https://cometa.top/player3/imgs-videos/RCServer08/imgs-videos/Agents%20Of%20S.H.I.E.L.D.4.jpg" group-title="Agents of S.H.I.E.L.D.", "04x16 - E se..."
+http://cdnfe3.azureedge.net/RCServer09/ondemand/AGTOSHLDT04EP16.mp4
+
+#EXTINF:0 tvg-logo="https://cometa.top/player3/imgs-videos/RCServer08/imgs-videos/Agents%20Of%20S.H.I.E.L.D.4.jpg" group-title="Agents of S.H.I.E.L.D.", "04x17 - Identidade e Mudança"
+http://cdnfe3.azureedge.net/RCServer09/ondemand/AGTOSHLDT04EP17.mp4
+
+#EXTINF:0 tvg-logo="https://cometa.top/player3/imgs-videos/RCServer08/imgs-videos/Agents%20Of%20S.H.I.E.L.D.4.jpg" group-title="Agents of S.H.I.E.L.D.", "04x18 - Sem Arrependimentos"
+http://cdnfe3.azureedge.net/RCServer09/ondemand/AGTOSHLDT04EP18.mp4
+
+#EXTINF:0 tvg-logo="https://cometa.top/player3/imgs-videos/RCServer08/imgs-videos/Agents%20Of%20S.H.I.E.L.D.4.jpg" group-title="Agents of S.H.I.E.L.D.", "04x19 - Todos os Homens da Madame"
+http://cdnfe3.azureedge.net/RCServer09/ondemand/AGTOSHLDT04EP19.mp4
+
+#EXTINF:0 tvg-logo="https://cometa.top/player3/imgs-videos/RCServer08/imgs-videos/Agents%20Of%20S.H.I.E.L.D.4.jpg" group-title="Agents of S.H.I.E.L.D.", "04x20 - Adeus Mundo Cruel!"
+http://cdnfe3.azureedge.net/RCServer09/ondemand/AGTOSHLDT04EP20.mp4
+
+#EXTINF:0 tvg-logo="https://cometa.top/player3/imgs-videos/RCServer08/imgs-videos/Agents%20Of%20S.H.I.E.L.D.4.jpg" group-title="Agents of S.H.I.E.L.D.", "04x21 - O Retorno"
+http://cdnfe3.azureedge.net/RCServer09/ondemand/AGTOSHLDT04EP21.mp4
+
+#EXTINF:0 tvg-logo="https://cometa.top/player3/imgs-videos/RCServer08/imgs-videos/Agents%20Of%20S.H.I.E.L.D.4.jpg" group-title="Agents of S.H.I.E.L.D.", "04x22 - Fim do Mundo"
+http://cdnfe3.azureedge.net/RCServer09/ondemand/AGTOSHLDT04EP22.mp4
+
+#EXTINF:0 tvg-logo="https://cometa.top/player3/imgs-videos/RCServer03/imgs-videos/Agents%20Of%20S.H.I.E.L.D.5.jpg" group-title="Agents of S.H.I.E.L.D.", "05x01 - Orientação (Parte 1)"
+http://cdnfe2.azureedge.net/RCServer13/ondemand/AGTOSHLDT05EP01.mp4
+
+#EXTINF:0 tvg-logo="https://cometa.top/player3/imgs-videos/RCServer03/imgs-videos/Agents%20Of%20S.H.I.E.L.D.5.jpg" group-title="Agents of S.H.I.E.L.D.", "05x02 - Orientação (Parte 2)"
+http://cdnfe2.azureedge.net/RCServer13/ondemand/AGTOSHLDT05EP02.mp4
+
+#EXTINF:0 tvg-logo="https://cometa.top/player3/imgs-videos/RCServer03/imgs-videos/Agents%20Of%20S.H.I.E.L.D.5.jpg" group-title="Agents of S.H.I.E.L.D.", "05x03 - Uma Vida Passada"
+http://cdnfe2.azureedge.net/RCServer13/ondemand/AGTOSHLDT05EP03.mp4
+
+#EXTINF:0 tvg-logo="https://cometa.top/player3/imgs-videos/RCServer03/imgs-videos/Agents%20Of%20S.H.I.E.L.D.5.jpg" group-title="Agents of S.H.I.E.L.D.", "05x04 - Uma Vida Ganha"
+http://cdnfe2.azureedge.net/RCServer13/ondemand/AGTOSHLDT05EP04.mp4
+
+#EXTINF:0 tvg-logo="https://cometa.top/player3/imgs-videos/RCServer03/imgs-videos/Agents%20Of%20S.H.I.E.L.D.5.jpg" group-title="Agents of S.H.I.E.L.D.", "05x05 - Rebobinar"
+http://cdnfe2.azureedge.net/RCServer13/ondemand/AGTOSHLDT05EP05.mp4
+
+#EXTINF:0 tvg-logo="https://cometa.top/player3/imgs-videos/RCServer03/imgs-videos/Agents%20Of%20S.H.I.E.L.D.5.jpg" group-title="Agents of S.H.I.E.L.D.", "05x06 - Diversão E Jogos"
+http://cdnfe2.azureedge.net/RCServer13/ondemand/AGTOSHLDT05EP06.mp4
+
+#EXTINF:0 tvg-logo="https://cometa.top/player3/imgs-videos/RCServer03/imgs-videos/Agents%20Of%20S.H.I.E.L.D.5.jpg" group-title="Agents of S.H.I.E.L.D.", "05x07 - Juntos Ou Nada Mais"
+http://cdnfe2.azureedge.net/RCServer13/ondemand/AGTOSHLDT05EP07.mp4
+
+#EXTINF:0 tvg-logo="https://cometa.top/player3/imgs-videos/RCServer03/imgs-videos/Agents%20Of%20S.H.I.E.L.D.5.jpg" group-title="Agents of S.H.I.E.L.D.", "05x08 - O Ultimo Dia"
+http://cdnfe2.azureedge.net/RCServer13/ondemand/AGTOSHLDT05EP08.mp4
+
+#EXTINF:0 tvg-logo="https://cometa.top/player3/imgs-videos/RCServer03/imgs-videos/Agents%20Of%20S.H.I.E.L.D.5.jpg" group-title="Agents of S.H.I.E.L.D.", "05x09 - Melhores Planos"
+http://cdnfe2.azureedge.net/RCServer13/ondemand/AGTOSHLDT05EP09.mp4
+
+#EXTINF:0 tvg-logo="https://cometa.top/player3/imgs-videos/RCServer03/imgs-videos/Agents%20Of%20S.H.I.E.L.D.5.jpg" group-title="Agents of S.H.I.E.L.D.", "05x10 - Vida Passada"
+http://cdnfe2.azureedge.net/RCServer13/ondemand/AGTOSHLDT05EP10.mp4
+
+#EXTINF:0 tvg-logo="https://cometa.top/player3/imgs-videos/RCServer03/imgs-videos/Agents%20Of%20S.H.I.E.L.D.5.jpg" group-title="Agents of S.H.I.E.L.D.", "05x11 - Todos os Confortos De Casa"
+http://cdnfe2.azureedge.net/RCServer13/ondemand/AGTOSHLDT05EP11.mp4
+
+#EXTINF:0 tvg-logo="https://cometa.top/player3/imgs-videos/RCServer03/imgs-videos/Agents%20Of%20S.H.I.E.L.D.5.jpg" group-title="Agents of S.H.I.E.L.D.", "05x12 - O Verdadeiro Negócio"
+http://cdnfe3.azureedge.net/RCServer10/ondemand/AGTOSHLDT05EP12.mp4
+
+#EXTINF:0 tvg-logo="https://cometa.top/player3/imgs-videos/RCServer03/imgs-videos/Agents%20Of%20S.H.I.E.L.D.5.jpg" group-title="Agents of S.H.I.E.L.D.", "05x13 - Principia"
+http://cdnfe3.azureedge.net/RCServer10/ondemand/AGTOSHLDT05EP13.mp4
+
+#EXTINF:0 tvg-logo="https://cometa.top/player3/imgs-videos/RCServer03/imgs-videos/Agents%20Of%20S.H.I.E.L.D.5.jpg" group-title="Agents of S.H.I.E.L.D.", "05x14 - O Complexo Do Diabo"
+http://cdnfe3.azureedge.net/RCServer10/ondemand/AGTOSHLDT05EP14.mp4
+
+#EXTINF:0 tvg-logo="https://cometa.top/player3/imgs-videos/RCServer03/imgs-videos/Agents%20Of%20S.H.I.E.L.D.5.jpg" group-title="Agents of S.H.I.E.L.D.", "05x15 - Levantar E Brilhar"
+http://cdnfe3.azureedge.net/RCServer10/ondemand/AGTOSHLDT05EP15.mp4
+
+#EXTINF:0 tvg-logo="https://cometa.top/player3/imgs-videos/RCServer03/imgs-videos/Agents%20Of%20S.H.I.E.L.D.5.jpg" group-title="Agents of S.H.I.E.L.D.", "05x16 - Vozes Internas"
+http://cdnfe3.azureedge.net/RCServer07/ondemand/AGTOSHLDT05EP16.mp4
+
+#EXTINF:0 tvg-logo="https://cometa.top/player3/imgs-videos/RCServer03/imgs-videos/Agents%20Of%20S.H.I.E.L.D.5.jpg" group-title="Agents of S.H.I.E.L.D.", "05x17 - A Lua De Mel"
+http://cdnfe3.azureedge.net/RCServer08/ondemand/AGTOSHLDT05EP17.mp4
+
+#EXTINF:0 tvg-logo="https://cometa.top/player3/imgs-videos/RCServer03/imgs-videos/Agents%20Of%20S.H.I.E.L.D.5.jpg" group-title="Agents of S.H.I.E.L.D.", "05x18 - Todos os Caminhos Levam..."
+http://cdnfe3.azureedge.net/RCServer08/ondemand/AGTOSHLDT05EP18.mp4
+
+#EXTINF:0 tvg-logo="https://cometa.top/player3/imgs-videos/RCServer03/imgs-videos/Agents%20Of%20S.H.I.E.L.D.5.jpg" group-title="Agents of S.H.I.E.L.D.", "05x19 - Segunda Opção"
+http://cdnfe3.azureedge.net/RCServer08/ondemand/AGTOSHLDT05EP19.mp4
+
+#EXTINF:0 tvg-logo="https://cometa.top/player3/imgs-videos/RCServer03/imgs-videos/Agents%20Of%20S.H.I.E.L.D.5.jpg" group-title="Agents of S.H.I.E.L.D.", "05x20 - Aquele Que Salvará Todos Nos (Legendado)"
+http://cdnfe2.azureedge.net/RCServer13/ondemand/AGTOSHLDS05EP20.mp4
+
+#EXTINF:0 tvg-logo="https://cometa.top/player3/imgs-videos/RCServer03/imgs-videos/Agents%20Of%20S.H.I.E.L.D.5.jpg" group-title="Agents of S.H.I.E.L.D.", "05x21 - A Força Da Gravidade (Legendado)"
+http://cdnfe2.azureedge.net/RCServer13/ondemand/AGTOSHLDS05EP21.mp4
+
+#EXTINF:0 tvg-logo="https://cometa.top/player3/imgs-videos/RCServer03/imgs-videos/Agents%20Of%20S.H.I.E.L.D.5.jpg" group-title="Agents of S.H.I.E.L.D.", "05x22 - O Fim (Legendado)"
+http://cdnfe2.azureedge.net/RCServer13/ondemand/AGTOSHLDS05EP22.mp4
+
+#EXTINF:0 tvg-logo="https://cometa.top/player3/imgs-videos/Series/Agents%20Of%20S.H.I.E.L.D.%206.jpg" group-title="Agents of S.H.I.E.L.D.", "06x01 - Peças Faltando"
+http://cdnfe2.azureedge.net/RCServer06/ondemand/AGTOSHLDT06EP01.mp4
+
+#EXTINF:0 tvg-logo="https://cometa.top/player3/imgs-videos/Series/Agents%20Of%20S.H.I.E.L.D.%206.jpg" group-title="Agents of S.H.I.E.L.D.", "06x02 - Janela De Oportunidade"
+http://cdnfe2.azureedge.net/RCServer06/ondemand/AGTOSHLDT06EP02.mp4
+
+#EXTINF:0 tvg-logo="https://cometa.top/player3/imgs-videos/Series/Agents%20Of%20S.H.I.E.L.D.%206.jpg" group-title="Agents of S.H.I.E.L.D.", "06x03 - Medo E Repulsa No Planeta De Kitson"
+http://cdnfe2.azureedge.net/RCServer06/ondemand/AGTOSHLDT06EP03.mp4
+
+#EXTINF:0 tvg-logo="https://cometa.top/player3/imgs-videos/Series/Agents%20Of%20S.H.I.E.L.D.%206.jpg" group-title="Agents of S.H.I.E.L.D.", "06x04 - Código Amarelo"
+http://cdnfe2.azureedge.net/RCServer12/ondemand/AGTOSHLDT06EP04.mp4
+
+#EXTINF:0 tvg-logo="https://cometa.top/player3/imgs-videos/Series/Agents%20Of%20S.H.I.E.L.D.%206.jpg" group-title="Agents of S.H.I.E.L.D.", "06x05 - A Outra Coisa"
+http://cdnfe2.azureedge.net/RCServer12/ondemand/AGTOSHLDT06EP05.mp4
+
+#EXTINF:0 tvg-logo="https://cometa.top/player3/imgs-videos/Series/Agents%20Of%20S.H.I.E.L.D.%206.jpg" group-title="Agents of S.H.I.E.L.D.", "06x06 - Inescapável"
+http://cdnfe2.azureedge.net/RCServer12/ondemand/AGTOSHLDT06EP06.mp4
+
+#EXTINF:0 tvg-logo="https://cometa.top/player3/imgs-videos/Series/Agents%20Of%20S.H.I.E.L.D.%206.jpg" group-title="Agents of S.H.I.E.L.D.", "06x07 - Toldja"
+http://cdnfe2.azureedge.net/RCServer12/ondemand/AGTOSHLDT06EP07.mp4
+
+#EXTINF:0 tvg-logo="https://cometa.top/player3/imgs-videos/Series/Agents%20Of%20S.H.I.E.L.D.%206.jpg" group-title="Agents of S.H.I.E.L.D.", "06x08 - Curso De Colisão (Parte 1)"
+http://cdnfe2.azureedge.net/RCServer12/ondemand/AGTOSHLDT06EP08.mp4
+
+#EXTINF:0 tvg-logo="https://cometa.top/player3/imgs-videos/Series/Agents%20Of%20S.H.I.E.L.D.%206.jpg" group-title="Agents of S.H.I.E.L.D.", "06x09 - Curso De Colisão (Parte 2)"
+http://cdnfe2.azureedge.net/RCServer12/ondemand/AGTOSHLDT06EP09.mp4
