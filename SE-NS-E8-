@@ -1,0 +1,54 @@
+
+#EXTM3U size="Medium"
+#EXTINF:0 tvg-logo="https://www.bleedingcool.com/wp-content/uploads/2017/04/sense8.jpg" group-title="SENSE8", SENSE8
+http://www.blogger.com/video-play.mp4?contentId=46d4b93b54e052b5
+
+#EXTINF:0 tvg-logo="https://www.bleedingcool.com/wp-content/uploads/2017/04/sense8.jpg" group-title="SENSE8", SENSE8 T1|EP1
+http://cdnfe3.azureedge.net/RCServer09/ondemand/SNSE8T01EP01.mp4?STANIPTV
+#EXTINF:0 tvg-logo="https://www.bleedingcool.com/wp-content/uploads/2017/04/sense8.jpg" group-title="SENSE8", SENSE8 T1|EP2
+http://cdnfe3.azureedge.net/RCServer09/ondemand/SNSE8T01EP02.mp4?STANIPTV
+#EXTINF:0 tvg-logo="https://www.bleedingcool.com/wp-content/uploads/2017/04/sense8.jpg" group-title="SENSE8", SENSE8 T1|EP3
+http://cdnfe3.azureedge.net/RCServer09/ondemand/SNSE8T01EP03.mp4?STANIPTV
+#EXTINF:0 tvg-logo="https://www.bleedingcool.com/wp-content/uploads/2017/04/sense8.jpg" group-title="SENSE8", SENSE8 T1|EP4
+http://cdnfe3.azureedge.net/RCServer09/ondemand/SNSE8T01EP04.mp4?STANIPTV
+#EXTINF:0 tvg-logo="https://www.bleedingcool.com/wp-content/uploads/2017/04/sense8.jpg" group-title="SENSE8", SENSE8 T1|EP5
+http://cdnfe3.azureedge.net/RCServer09/ondemand/SNSE8T01EP05.mp4?STANIPTV
+#EXTINF:0 tvg-logo="https://www.bleedingcool.com/wp-content/uploads/2017/04/sense8.jpg" group-title="SENSE8", SENSE8 T1|EP6
+http://cdnfe3.azureedge.net/RCServer09/ondemand/SNSE8T01EP06.mp4?STANIPTV
+#EXTINF:0 tvg-logo="https://www.bleedingcool.com/wp-content/uploads/2017/04/sense8.jpg" group-title="SENSE8", SENSE8 T1|EP7
+http://cdnfe3.azureedge.net/RCServer09/ondemand/SNSE8T01EP07.mp4?STANIPTV
+#EXTINF:0 tvg-logo="https://www.bleedingcool.com/wp-content/uploads/2017/04/sense8.jpg" group-title="SENSE8", SENSE8 T1|EP8
+http://cdnfe3.azureedge.net/RCServer09/ondemand/SNSE8T01EP08.mp4?STANIPTV
+#EXTINF:0 tvg-logo="https://www.bleedingcool.com/wp-content/uploads/2017/04/sense8.jpg" group-title="SENSE8", SENSE8 T1|EP9
+http://cdnfe3.azureedge.net/RCServer09/ondemand/SNSE8T01EP09.mp4?STANIPTV
+#EXTINF:0 tvg-logo="https://www.bleedingcool.com/wp-content/uploads/2017/04/sense8.jpg" group-title="SENSE8", SENSE8 T1|EP10
+http://cdnfe3.azureedge.net/RCServer09/ondemand/SNSE8T01EP10.mp4?STANIPTV
+#EXTINF:0 tvg-logo="https://www.bleedingcool.com/wp-content/uploads/2017/04/sense8.jpg" group-title="SENSE8", SENSE8 T1|EP11
+http://cdnfe3.azureedge.net/RCServer09/ondemand/SNSE8T01EP11.mp4?STANIPTV
+#EXTINF:0 tvg-logo="https://www.bleedingcool.com/wp-content/uploads/2017/04/sense8.jpg" group-title="SENSE8", SENSE8 T1|EP12
+http://cdnfe3.azureedge.net/RCServer09/ondemand/SNSE8T01EP12.mp4?STANIPTV
+
+#EXTINF:0 tvg-logo="https://www.bleedingcool.com/wp-content/uploads/2017/04/sense8.jpg" group-title="SENSE8", SENSE8 T2|EP1 
+http://cdnfe3.azureedge.net/RCServer10/ondemand/SNSE8T02EP01.mp4
+#EXTINF:0 tvg-logo="https://www.bleedingcool.com/wp-content/uploads/2017/04/sense8.jpg" group-title="SENSE8", SENSE8 T2|EP2 
+http://cdnfe3.azureedge.net/RCServer10/ondemand/SNSE8T02EP02.mp4
+#EXTINF:0 tvg-logo="https://www.bleedingcool.com/wp-content/uploads/2017/04/sense8.jpg" group-title="SENSE8", SENSE8 T2|EP3 
+http://cdnfe3.azureedge.net/RCServer10/ondemand/SNSE8T02EP03.mp4
+#EXTINF:0 tvg-logo="https://www.bleedingcool.com/wp-content/uploads/2017/04/sense8.jpg" group-title="SENSE8", SENSE8 T2|EP4 
+http://cdnfe3.azureedge.net/RCServer10/ondemand/SNSE8T02EP04.mp4
+#EXTINF:0 tvg-logo="https://www.bleedingcool.com/wp-content/uploads/2017/04/sense8.jpg" group-title="SENSE8", SENSE8 T2|EP5
+http://cdnfe3.azureedge.net/RCServer10/ondemand/SNSE8T02EP05.mp4
+#EXTINF:0 tvg-logo="https://www.bleedingcool.com/wp-content/uploads/2017/04/sense8.jpg" group-title="SENSE8", SENSE8 T2|EP6 
+http://cdnfe3.azureedge.net/RCServer10/ondemand/SNSE8T02EP06.mp4
+#EXTINF:0 tvg-logo="https://www.bleedingcool.com/wp-content/uploads/2017/04/sense8.jpg" group-title="SENSE8", SENSE8 T2|EP7 
+http://cdnfe3.azureedge.net/RCServer10/ondemand/SNSE8T02EP07.mp4
+#EXTINF:0 tvg-logo="https://www.bleedingcool.com/wp-content/uploads/2017/04/sense8.jpg" group-title="SENSE8", SENSE8 T2|EP8 
+http://cdnfe3.azureedge.net/RCServer10/ondemand/SNSE8T02EP08.mp4
+#EXTINF:0 tvg-logo="https://www.bleedingcool.com/wp-content/uploads/2017/04/sense8.jpg" group-title="SENSE8", SENSE8 T2|EP9 
+http://cdnfe3.azureedge.net/RCServer10/ondemand/SNSE8T02EP09.mp4
+#EXTINF:0 tvg-logo="https://www.bleedingcool.com/wp-content/uploads/2017/04/sense8.jpg" group-title="SENSE8", SENSE8 T2|EP10 
+http://cdnfe3.azureedge.net/RCServer10/ondemand/SNSE8T02EP10.mp4
+#EXTINF:0 tvg-logo="https://www.bleedingcool.com/wp-content/uploads/2017/04/sense8.jpg" group-title="SENSE8", SENSE8 T2|EP11
+http://cdnfe3.azureedge.net/RCServer10/ondemand/SNSE8T02EP11.mp4
+#EXTINF:0 tvg-logo="https://www.bleedingcool.com/wp-content/uploads/2017/04/sense8.jpg" group-title="SENSE8", SENSE8 T2|EP12
+http://cdnfe2.azureedge.net/RCServer13/ondemand/SNSE8T02EP12.mp4
