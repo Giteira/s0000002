@@ -1,6 +1,5 @@
 
 #EXTM3U size="Medium"
-################## Black Summer ########################
 
 #EXTINF:0 tvg-logo="https://cometa.top/player3/imgs-videos/Series/Black%20Summer%201.jpg" group-title="Black Summer", "01x01 - Fluxo Humano"
 http://cdnfe2.azureedge.net/RCServer03/ondemand/BLCKSMRT01EP01.mp4
