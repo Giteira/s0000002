@@ -1,7 +1,6 @@
 
 
 #EXTM3U size="Medium"
-################## American Gods ########################
 
 #EXTINF:0 tvg-logo="https://cometa.top/player3/imgs-videos/RCServer03/imgs-videos/American%20Gods1.jpg" group-title="American Gods", "01x01 - O Pomar dos Ossos"
 http://cdnfe3.azureedge.net/RCServer11/ondemand/AMRCGDST01EP01.mp4
